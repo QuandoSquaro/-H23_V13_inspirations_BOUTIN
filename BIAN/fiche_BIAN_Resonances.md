@@ -3,7 +3,7 @@
 - Type d'exposition: Exposition permanante 
 - Titre de l'oeuvre: Résonances 
 
-![image](https://user-images.githubusercontent.com/112189897/219527122-edcdf525-0637-4d16-bccc-ea7cf735e0e1.png)
+![arche_1](medias/Github/arche_1)
 - Nom de l'artiste: Louis-Philippe Rondeau
 - Année de réalisation: 2022
 - Description de l'oeuvre: Une arche de lumiere qui vous capture et vous affiche à l'écran quand vous passez dedans.
