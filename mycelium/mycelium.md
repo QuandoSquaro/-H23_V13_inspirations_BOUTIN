@@ -49,3 +49,8 @@
 
 ## Composantes et techniques ##
 
+![image5](medias/image5.jpg)
+
+- Un ordinateur qui contrôle les couleurs et le sons grâce aux logiciels utilisés.
+- Des speakers qui servent à émmetre le son.
+- Des capteurs de mouvement afin de pouvoir détecter si quelqu'un passe devant un côté de l'oeuvre et de dire à l'ordinateur de changer les couleurs et de jouer une mélodie. 
