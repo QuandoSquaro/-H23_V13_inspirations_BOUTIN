@@ -72,4 +72,3 @@
 ## 🤔 Point à améliorer ##
 
 - La seule chose que je changerait pour cette oeuvre serait d'essayer de la rende un peut moins répétitive. Par exemple, ajouter quelques sons et couleurs et les rendre aléatoire afin de donner plus d'options.
-- 
