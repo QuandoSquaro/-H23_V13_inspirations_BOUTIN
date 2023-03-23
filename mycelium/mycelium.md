@@ -46,3 +46,6 @@
 ## Mise en espace ##
 
 - L'oeuvre est placée sur le sol et reste en place grâce à une plaque fixée à la base de l'oeuvre. 
+
+## Composantes et techniques ##
+
