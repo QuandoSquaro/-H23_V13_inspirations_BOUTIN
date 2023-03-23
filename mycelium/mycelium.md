@@ -60,3 +60,7 @@
 - Une plaque fixée à la base de l'oeuvre afin de la faire tenir debout.
 - Des cache fils afin de cacher et de protéger les fils pour pas que quelqu'un pile sur ceux-ci.
 - Des projecteurs afin de bien illuminer l'oeuvre le soir.
+
+## Expérience vécue ##
+
+Quand je suis allé tester l'oeuvre, elle était encore en développement, cependant, je n'ai pas remarqué de défaut et tout fonctionnait à merveille. J'ai passé devant chaque côté de l'oeuvre et tous offraient une ambiance différente. Les couleurs changeaient autant que les mélodies, les artistes ont réussi à rendre leur oeuvre immersive. Toutefois, quand j'ai testé cette oeuvre, j'étais dans le studio et la lumière était ouverte. Maintenant que l'oeuvre est dehors, je conseille à ceux qui veulent aller la tester d'y aller quand le soleil est couché, car je pense que d'essayer cette oeuvre dans le noir rendrait cette oeuvre encore plus immersive.
