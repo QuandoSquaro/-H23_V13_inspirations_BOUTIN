@@ -54,3 +54,9 @@
 - Un ordinateur qui contrôle les couleurs et le sons grâce aux logiciels utilisés.
 - Des speakers qui servent à émmetre le son.
 - Des capteurs de mouvement afin de pouvoir détecter si quelqu'un passe devant un côté de l'oeuvre et de dire à l'ordinateur de changer les couleurs et de jouer une mélodie. 
+
+## Éléments nécessaires à la mise en exposition ##
+
+- Une plaque fixée à la base de l'oeuvre afin de la faire tenir debout.
+- Des cache fils afin de cacher et de protéger les fils pour pas que quelqu'un pile sur ceux-ci.
+- Des projecteurs afin de bien illuminer l'oeuvre le soir.
