@@ -18,8 +18,6 @@
 
 - VOIX AUTOCHTONES D’AUJOURD’HUI
 
-![image1](medias/image1.jpg)
-
 ## Nom des artistes ##
 
 Il y a beaucoup trop d'artiste impliqués pour tous les nommer, mais l'exposition à été réalisée par Suzanne Sauvage.
