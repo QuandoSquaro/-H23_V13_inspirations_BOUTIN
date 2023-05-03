@@ -1,4 +1,4 @@
-# EDRIA #
+# VOIX AUTOCHTONES D’AUJOURD’HUI #
 
 ![vue_generale](medias/vue_generale.png)
 
