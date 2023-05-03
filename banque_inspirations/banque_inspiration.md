@@ -4,34 +4,29 @@
 
 ## Lieu de mise en exposition ##
 
-- L'exposition se retrouve dehors à côté de l'anex.
+- L'exposition se retrouve au musée Mccord à Montréal.
 
 ## Type d'exposition ##
 
-- Cette exposition est de type temporaire, car elle ne peut pas rester sur le terrain de l'école indéfiniment afin de laisser la place aux prochains étudiants.
+- Cette exposition permanente est là depuis le 25 septembre 2021.
 
 ## Date de visite ##
 
-- Vendredi 10 mars 2023
+- Mardi 11 avril 2023.
 
 ## Titre de l'oeuvre ##
 
-- EDIRA
+- VOIX AUTOCHTONES D’AUJOURD’HUI
 
 ![image1](medias/image1.jpg)
 
 ## Nom des artistes ##
 
-- Elwin Durand
-- Loic Delorme
-- Dominic Roberts
-- Gabriel Leblanc
-- Meryem Berbiche
-- Jean-Christophe
+Il y a beaucoup trop d'artiste impliqués pour tous les nommer, mais l'exposition à été réalisée par Suzanne Sauvage.
 
 ## Année de réalisation ##
 
-- 2023
+- 2021
 
 ## Description de l'oeuvre ##
 
