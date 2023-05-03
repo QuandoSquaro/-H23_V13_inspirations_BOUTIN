@@ -1,6 +1,6 @@
 # EDRIA #
 
-![image1](medias/vue_generale)
+![vue_generale](medias/vue_generale)
 
 ## Lieu de mise en exposition ##
 
