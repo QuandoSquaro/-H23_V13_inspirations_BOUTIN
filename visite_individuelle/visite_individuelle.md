@@ -1,6 +1,6 @@
 # EDRIA #
 
-![image4](medias/image4.png)
+![logo](medias/logo.jpg)
 
 ## Lieu de mise en exposition ##
 
