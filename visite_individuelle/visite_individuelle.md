@@ -4,7 +4,7 @@
 
 ## Lieu de mise en exposition ##
 
-- L'exposition se retrouve dehors à côté de l'anex.
+- L'exposition se retrouve dans le Musée McCord Stewart à Montréal.
 
 ## Type d'exposition ##
 
