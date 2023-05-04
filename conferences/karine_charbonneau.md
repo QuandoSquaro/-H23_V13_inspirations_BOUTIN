@@ -1,1 +1,1 @@
-
+Karine Charbonneau occupe le poste de chef des expositions et registraire au Studio Antimodular depuis plus de 15 ans. Au cours de sa présentation, elle a partagé des manières de faire la gestion de collections et de mise en exposition des œuvres d'art numérique. Ce text servira à vous montrer les points clés de la présentation de Karine Charbonneau.
