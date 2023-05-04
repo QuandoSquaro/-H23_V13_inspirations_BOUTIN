@@ -18,4 +18,6 @@
 
 ## Description du dispositf ##
 
-- 
+- Des écrans intéractifs qui affiche un arbre qui nous permettent de voir l'évolution des éléments et des espèces de notre planète en se déplacant vers les branches de l'arbre.
+
+![1](medias/1.png)
