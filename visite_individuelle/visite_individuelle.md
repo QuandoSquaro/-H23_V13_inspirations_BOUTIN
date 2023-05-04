@@ -20,17 +20,19 @@
 
 ## Nom des artistes ##
 
-Par Suanne Sauvage
+Jean St-Onge et Elisabeth Kaine
 
-![suzanne_sauvage](medias/suzanne_sauvage.jpg)
+![Jean](medias/jean_st-oge.jpg) ![Elizabeth](medias/elizabeth_kaine.jpg)
 
 ## Année de réalisation ##
 
-- 2023
+- 2021
 
 ## Description de l'oeuvre ##
 
-- Un pilier recouvert de feuilles et de végétation qui rappelle la forêt. Ce pilier intéractif a quatre côtés différents ayant chacun une couleur différente. Chaque côté, quand un mouvement est détecté en face, change de couleur et joue une mélodie différente des autres.
+- Cette exposition met en avant la collaboration entre les personnes autochtones et allochtones (personnes non-autochtones) avec plusieurs vidéos et témoiniages projettées afin de lutter contre les injustices et dans le but de guérir les blessures du passé causées aux autochtones. Cette oeuvre a pour but de faire sentir au visiteur qu'il a eu une réelle rencontre et de dialogue avec les gens dans cette oeuvre en écoutant leurs témoigniages et leurs façons de s'impliquer pour lutter contre les injustices actuelles.
+
+![vue](medias/vue_generale.png)
 
 ## Type d'installation ##
 
