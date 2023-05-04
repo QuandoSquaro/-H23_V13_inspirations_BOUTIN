@@ -42,7 +42,7 @@ Jean St-Onge et Elisabeth Kaine
 
 ## Mise en espace ##
 
-- L'oeuvre est placée sur le sol et reste en place grâce à une plaque fixée à la base de l'oeuvre. 
+- L'oeuvre placée dans une pièce et est dispersée en plusieurs éléments. En premier lieu, il y a un fond qui projette une forêt afin de nous immerser dans l'oeuvre. Devant ce fond, il y a l'écran qui sert a montrer les témoignages de personnes autochtones, cet écran est blanc et les vidéos sont projettées sur cet écran grâce à un projecteur. À la droite de cet ecran, il ya a d'autres petits écrans qui montrent eux aussi des témoignages de différentes personnes que l'on peut écouter avec des téléphones. De l'autre côté, il y a des objets qui représentent l'héritage autochtone et son histoire.
 
 ## Composantes et techniques ##
 
