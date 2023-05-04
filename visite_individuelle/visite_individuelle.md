@@ -36,9 +36,9 @@ Jean St-Onge et Elisabeth Kaine
 
 ## Type d'installation ##
 
-- Installation immersive
+- Installation immersive et contemplative
 
-![image3](medias/image3.jpg)
+![arbres](medias/arbres.png)
 
 ## Mise en espace ##
 
