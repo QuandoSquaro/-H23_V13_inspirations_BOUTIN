@@ -16,16 +16,13 @@
 
 ## Titre de l'oeuvre ##
 
-- Prendre la place qui nous revient
+- Voix autochtaunes d'aujourd'hui: savoir, trauma et résilience
 
 ## Nom des artistes ##
 
-- Elwin Durand
-- Loic Delorme
-- Dominic Roberts
-- Gabriel Leblanc
-- Meryem Berbiche
-- Jean-Christophe
+Par Suanne Sauvage
+
+![suzanne_sauvage](medias/suzanne_sauvage.jpg)
 
 ## Année de réalisation ##
 
