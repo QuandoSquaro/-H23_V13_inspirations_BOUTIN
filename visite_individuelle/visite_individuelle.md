@@ -8,17 +8,15 @@
 
 ## Type d'exposition ##
 
-- Cette exposition est de type temporaire, car elle ne peut pas rester sur le terrain de l'école indéfiniment afin de laisser la place aux prochains étudiants.
+- Cette exposition est de type permanente et est à l'intérieur depuis le 24 décembre 2021.
 
 ## Date de visite ##
 
-- Vendredi 10 mars 2023
+- Mardi 11 avril 2023
 
 ## Titre de l'oeuvre ##
 
-- EDIRA
-
-![image1](medias/image1.jpg)
+- Prendre la place qui nous revient
 
 ## Nom des artistes ##
 
