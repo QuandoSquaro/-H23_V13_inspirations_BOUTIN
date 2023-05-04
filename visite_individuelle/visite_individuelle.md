@@ -67,8 +67,12 @@ Jean St-Onge et Elisabeth Kaine
 
 ## ❤️ Ce qui m'a plu ##
 
-- J'ai choisi cette oeuvre car c'était d'après moi la plus interressante parmis toutes les autres. Ce qui m'a plu de cette oeuvre, c'est l'immersion. J'avais l'impression d'être dans un autre monde en essayant cette oeuvre, surtout grâce à la musique. LA musique était appaisante, calme et me donnait envie de me coucher et de fermer les yeux. Les lumières me donnaient l'impression d'être dans une forêt magique et la musique à beaucoup accentué ce sentiment. 
+- Ce que j'ai préféré, c'était l'ambiance créée par la forêt, les couleurs et les objets historiques, tout ça me donnait l'impression d'être dans la forêt. J'ai aussi aimé l'idée des téléphones, c'était original et ca permettait de faire autre chose que d'être assis à regarder un écran.
 
 ## 🤔 Point à améliorer ##
 
-- La seule chose que je changerait pour cette oeuvre serait d'essayer de la rende un peut moins répétitive. Par exemple, ajouter quelques sons et couleurs et les rendre aléatoire afin de donner plus d'options.
+- Le seul point que j'améliorerais serait la durée de la présentation. Il y a beaucoup de vidéos et de témoignages et pour quelqu'un qui n'est pas fan des musées, cette exposition peut être assez longue.
+
+## Références ##
+
+https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/
