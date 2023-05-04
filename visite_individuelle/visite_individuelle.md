@@ -57,13 +57,13 @@ Jean St-Onge et Elisabeth Kaine
 
 ## Éléments nécessaires à la mise en exposition ##
 
-- Une plaque fixée à la base de l'oeuvre afin de la faire tenir debout.
-- Des cache fils afin de cacher et de protéger les fils pour pas que quelqu'un pile sur ceux-ci.
-- Des projecteurs afin de bien illuminer l'oeuvre le soir.
+- Des lumières afin de bien éclairer les oeuvres.
+- Des cache fils afin de protéger et cacher les fils pour rendre les oeuvres plus belles.
+- Des haut-parleurs afin d'émettre le son des témoignages.
 
 ## Expérience vécue ##
 
-- Quand je suis allé tester l'oeuvre, elle était encore en développement, cependant, je n'ai pas remarqué de défaut et tout fonctionnait à merveille. J'ai passé devant chaque côté de l'oeuvre et tous offraient une ambiance différente. Les couleurs changeaient autant que les mélodies, les artistes ont réussi à rendre leur oeuvre immersive. Toutefois, quand j'ai testé cette oeuvre, j'étais dans le studio et la lumière était ouverte. Maintenant que l'oeuvre est dehors, je conseille à ceux qui veulent aller la tester d'y aller quand le soleil est couché, car je pense que d'essayer cette oeuvre dans le noir rendrait cette oeuvre encore plus immersive.
+- Quand je suis sorti du musée après ma visite, j'ai eu l'impression d'avoir eu une discussion avec tous ces gens qui faisaient les témoignages. Leurs histoires étaient touchantes et m'ont fait réfléchir sur mon chemin du retour à comment les injustices sont toujours présentes chez les peuples autochtones de nos jours.
 
 ## ❤️ Ce qui m'a plu ##
 
