@@ -1,4 +1,4 @@
-# EDRIA #
+# Voix autochtones d'aujourd'hui: savoir, trauma et résilience #
 
 ![logo](medias/logo.jpg)
 
@@ -16,7 +16,7 @@
 
 ## Titre de l'oeuvre ##
 
-- Voix autochtaunes d'aujourd'hui: savoir, trauma et résilience
+- Voix autochtones d'aujourd'hui: savoir, trauma et résilience
 
 ## Nom des artistes ##
 
@@ -46,11 +46,12 @@ Jean St-Onge et Elisabeth Kaine
 
 ## Composantes et techniques ##
 
-- Un ordinateur qui contrôle les couleurs et le sons grâce aux logiciels utilisés.
-- Des speakers qui servent à émmetre le son.
-- Des capteurs de mouvement afin de pouvoir détecter si quelqu'un passe devant un côté de l'oeuvre et de dire à l'ordinateur de changer les couleurs et de jouer une mélodie. 
+- Projecteur
+- Dispositif (qui affiche les vidéos)
+- Petits écrans
+- Téléphones
 
-![image5](medias/image5.jpg)
+![projecteur](medias/projecteur.png)
 
 ## Éléments nécessaires à la mise en exposition ##
 
