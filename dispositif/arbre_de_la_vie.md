@@ -37,7 +37,7 @@
 
 ## Composantes et techniques ##
 
-- Bien qu'il n'y ai pas énormement de composantes, en voici quelques unes. Les écrans tactiles qui affichent le contenu et des fils qui permettent aux écrans de fonctionner.
+- Bien qu'il n'y ai pas énormement de composantes, en voici quelques unes. Les écrans tactiles qui affichent le contenu, des haut-parleurs afin de faire sortir le son et des fils qui permettent aux écrans de fonctionner.
 
 ## Expérience vécue ## 
 
