@@ -6,6 +6,10 @@
 
 - Vendredi 28 avril 2023
 
+## Type d'exposition ##
+
+- Permanente et intérieure
+
 ## Titre de l'oeuvre ##
 
 - L'arbre de la vie
