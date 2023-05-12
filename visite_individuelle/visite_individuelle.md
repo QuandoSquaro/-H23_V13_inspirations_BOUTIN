@@ -51,7 +51,6 @@ Jean St-Onge et Elisabeth Kaine
 - Petits écrans
 - Téléphones
 
-![projecteur](medias/projecteur.png)
 ![petits](medias/petits_ecrans.png)
 ![écran](medias/ecran_telephone.png)
 
